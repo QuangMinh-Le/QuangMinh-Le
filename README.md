@@ -27,12 +27,13 @@ Hey there! I'm a computer science student passionating about creating dope front
 <br>
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=QuangMinh-Le)](https://git.io/streak-stats)
 
 ### 📊 Stats
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuangMinh-Le&show_icons=true&theme=gruvbox)
+<br>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=QuangMinh-Le)](https://git.io/streak-stats)
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 <!--
