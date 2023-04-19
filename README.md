@@ -1,4 +1,5 @@
 # 💆‍♂️🏖 Quang Minh Le
+<br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Full-stack+web+%26+app+developer;3+years+of+coding+experience;UX%2FUI+Enthousiast)](https://git.io/typing-svg)
 
