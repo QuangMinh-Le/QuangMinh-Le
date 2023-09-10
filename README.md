@@ -8,7 +8,7 @@
 
 🔍 Passionate Computer Science Student | Aspiring Data Analyst | Full-Stack Web Developer 🖥️
 
-👋 Hello, I'm Minh! Welcome to my LinkedIn profile. I'm a computer science student with an insatiable curiosity for data analysis and a flair for crafting stunning front-end web experiences. If you're looking for someone who's enthusiastic about data, loves building full-stack web applications, and has a soft spot for creating beautiful UIs, you've come to the right place.
+👋 Hello, I'm Minh! Welcome to my Github profile. I'm a computer science student with an insatiable curiosity for data analysis and a flair for crafting stunning front-end web experiences. If you're looking for someone who's enthusiastic about data, loves building full-stack web applications, and has a soft spot for creating beautiful UIs, you've come to the right place.
 
 📊 Data Enthusiast 📈
 I'm on a mission to unravel the world of data analysis. My thirst for knowledge drives me to explore data's hidden insights and unlock its potential to make informed decisions. Whether it's data visualization, statistical analysis, or machine learning, I'm eager to dive in and discover more.
