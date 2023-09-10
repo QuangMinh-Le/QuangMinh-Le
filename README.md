@@ -6,7 +6,24 @@
 **`Full-stack web & app developer, Music Lover (Play Coding like guitar)`**
 <br>
 
-Hey there! I'm a computer science student passionating about creating dope front-end designs. I love to make things look fancy ass and bring them to life with my coding skills. When I'm not working on projects, you can find me listening to music, as I'm a music lover and even enjoy beatboxing in my free time. I approach coding like a musician approaches their instrument, playing the strings of code to make something beautiful. So join me on this journey of combining the art of music and the science of coding, one line at a time.
+🔍 Passionate Computer Science Student | Aspiring Data Analyst | Full-Stack Web Developer 🖥️
+
+👋 Hello, I'm Minh! Welcome to my LinkedIn profile. I'm a computer science student with an insatiable curiosity for data analysis and a flair for crafting stunning front-end web experiences. If you're looking for someone who's enthusiastic about data, loves building full-stack web applications, and has a soft spot for creating beautiful UIs, you've come to the right place.
+
+📊 Data Enthusiast 📈
+I'm on a mission to unravel the world of data analysis. My thirst for knowledge drives me to explore data's hidden insights and unlock its potential to make informed decisions. Whether it's data visualization, statistical analysis, or machine learning, I'm eager to dive in and discover more.
+
+💻 Full-Stack Web Developer 🌐
+With a strong foundation in web development, I'm proficient in building robust, end-to-end solutions. From designing responsive and eye-catching user interfaces with ReactJS and JavaScript to handling server-side logic, I embrace the challenges of full-stack development with enthusiasm.
+
+✨ Crafting Beautiful Front-Ends ✨
+The front-end is where the magic happens. I take pride in creating visually appealing, user-friendly interfaces that not only look good but also provide a seamless user experience. Design isn't just about aesthetics; it's about solving problems and enhancing usability.
+
+🚀 Let's Connect and Collaborate 🚀
+I'm always open to connecting with fellow data enthusiasts, web developers, and anyone who shares a passion for technology. Whether it's discussing data analysis techniques, collaborating on web projects, or simply exchanging ideas, I'm eager to connect and learn from each other.
+
+📚 Lifelong Learner 🌟
+In the world of technology, staying up-to-date is crucial. I'm committed to continuous learning, exploring new tools and technologies to stay at the forefront of the ever-evolving tech landscape.
 
 ---
 
